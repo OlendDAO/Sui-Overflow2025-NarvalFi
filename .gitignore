@@ -1,0 +1,63 @@
+# Node
+node_modules/
+
+# Next.js
+.next/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# pnpm/yarn lock (if not needed in repo)
+# Uncomment if you don't want to track lock files
+# pnpm-lock.yaml
+# yarn.lock
+
+# Coverage
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Misc
+*.local
+*.sublime*
+
+# Move build artifacts
+**/build/
+**/target/
+**/out/
+
+# MacOS
+.AppleDouble
+.LSOverride
+
+# Sui CLI
+.sui/ 
+
+# Docs
+Docs/
+
+# Cursor
+.cursor/
