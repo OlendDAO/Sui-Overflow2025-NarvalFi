@@ -24,11 +24,11 @@ const HomeHeader: React.FC = () => {
         Built on Sui, it integrates lending, vaults, and DEX into a single, composable liquidity layer.
       </p>
       <div className="flex flex-wrap gap-4 justify-center">
-        <PrimaryButton href="https://docs.narvalfi.com">
-          Explore Documentation
+        <PrimaryButton href="https://github.com/OlendDAO/Sui-Overflow2025-NarvalFi/tree/main/packages/contract/narval/sources">
+          Sui Move Contract Repository
         </PrimaryButton>
         <a
-          href="https://github.com/LaozpGZ/Sui-Overflow2025-NarvalFi"
+          href="https://github.com/Olenddao/Sui-Overflow2025-NarvalFi"
           target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3 bg-white/10 rounded-full font-semibold hover:bg-white/20 transition-all duration-300 flex items-center gap-2"

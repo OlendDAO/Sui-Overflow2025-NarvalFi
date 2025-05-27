@@ -35,7 +35,7 @@ const Footer = () => {
         <div className="flex flex-wrap justify-center gap-3">
           <SocialLink 
             icon={<Github className="w-5 h-5" />} 
-            href="https://github.com/LaozpGZ/Sui-Overflow2025-NarvalFi" 
+            href="https://github.com/Olenddao/Sui-Overflow2025-NarvalFi" 
             label="GitHub" 
           />
           <SocialLink 
@@ -73,7 +73,7 @@ const Footer = () => {
             <HeartIcon className="h-4 w-4" />
             <span>by</span>
             <Link
-              href="https://github.com/LaozpGZ/Sui-Overflow2025-NarvalFi"
+              href="https://github.com/Olenddao/Sui-Overflow2025-NarvalFi"
               target="_blank"
               rel="noopener noreferrer"
               highContrast={true}
